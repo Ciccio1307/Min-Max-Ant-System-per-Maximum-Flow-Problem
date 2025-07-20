@@ -44,11 +44,10 @@ pip install networkx matplotlib numpy statistics random
 - Matplotlib 3.5+
 - NumPy 1.21+
 
-## Installazione e Configurazione
 
 ### 1. Clona o scarica il progetto
 ```bash
-git clone <repository-url>
+git clone <[repository-url](https://github.com/Ciccio1307/Min-Max-Ant-System-per-Maximum-Flow-Problem.git)>
 cd mmas-maximum-flow
 ```
 
@@ -271,6 +270,6 @@ Questo progetto è rilasciato sotto licenza MIT. Vedi il file LICENSE per dettag
 
 ---
 
-**Autore**: [Nome Autore]  
-**Data**: [Data]  
+**Autore**: [Francesco Prospero Antonio VIRZI']  
+**Data**: [20/07/2025]  
 **Versione**: 1.0
