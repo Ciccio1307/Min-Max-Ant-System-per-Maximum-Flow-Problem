@@ -27,13 +27,7 @@ Questo progetto implementa l'algoritmo **Min-Max Ant System (MMAS)** per risolve
 ├── network_160.txt                     # File di istanza di esempio
 ├── README.md                           # Questo file
 ├── istanze/                            # Cartella contenente reti di esempio per il testing
-│   ├── network_160.txt                 # Rete di esempio con 6 nodi
-│   ├── network_small.txt               # Rete piccola per test rapidi
-│   └── network_large.txt               # Rete più complessa per test avanzati
 ├── risultati_grafici/                  # Cartella contenente i risultati delle istanze testate
-│   ├── network_160.png                 # Grafico convergenza per network_160
-│   ├── network_small.png               # Risultati rete piccola
-│   └── network_large.png               # Risultati rete complessa
 └── Francesco_Prospero_Antonio_VIRZI_1000.pdf  # Documentazione completa del progetto
 ```
 
@@ -65,10 +59,7 @@ pip install -r requirements.txt
 
 ### 3. Utilizza le istanze fornite o prepara nuove istanze
 
-Il progetto include diverse **reti di esempio** nella cartella `istanze/`:
-- `network_160.txt` - Rete di esempio con 6 nodi e 10 archi
-- `network_small.txt` - Rete piccola per test rapidi
-- `network_large.txt` - Rete più complessa per sperimentazione avanzata
+Il progetto include diverse **reti di esempio** nella cartella `istanze/`
 
 I **risultati delle istanze testate** sono disponibili nella cartella `risultati_grafici/` con i grafici di convergenza corrispondenti.
 
@@ -114,10 +105,6 @@ Per creare nuove istanze, il file di input deve seguire questo formato:
 
 Il progetto include diverse reti di test nella cartella `istanze/`:
 
-### Reti Disponibili
-- **network_160.txt**: Rete standard con 6 nodi, ideale per test iniziali
-- **network_small.txt**: Rete minimale per debug e comprensione algoritmo  
-- **network_large.txt**: Rete complessa per valutazione prestazioni
 
 ### Risultati Pre-calcolati
 La cartella `risultati_grafici/` contiene i grafici di convergenza per tutte le istanze testate, permettendo confronti immediati delle prestazioni.
