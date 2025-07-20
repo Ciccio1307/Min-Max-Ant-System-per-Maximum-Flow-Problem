@@ -47,7 +47,7 @@ pip install networkx matplotlib numpy statistics random
 
 ### 1. Clona o scarica il progetto
 ```bash
-git clone <[repository-url](https://github.com/Ciccio1307/Min-Max-Ant-System-per-Maximum-Flow-Problem.git)>
+git clone  Ciccio1307/Min-Max-Ant-System-per-Maximum-Flow-Problem
 cd mmas-maximum-flow
 ```
 
