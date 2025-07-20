@@ -256,6 +256,9 @@ Sono benvenuti contributi per:
 - Supporto per formati di input aggiuntivi
 - Documentazione migliorata
 
+## Esempio
+![Rete con 960 nodi ](risultati_grafici/network_960.png)
+
 ## Licenza
 
 Questo progetto è rilasciato sotto licenza MIT. Vedi il file LICENSE per dettagli.
